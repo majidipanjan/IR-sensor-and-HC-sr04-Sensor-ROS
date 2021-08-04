@@ -5,4 +5,6 @@ All the libraries are available on Arduino IDE >> Manage libraries
 if problem occurs try downgrading the libraries to its previous version.
 
 sudo apt-get install ros-noetic-rosserial-arduino
+
+
 rosrun rosserial_python serial_node.py tcp
